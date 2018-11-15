@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "925256818032",
+    "firebase_url": "https://ajentrent.firebaseio.com",
+    "project_id": "ajentrent",
+    "storage_bucket": "ajentrent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925256818032:android:1b44cd82952fae4c",
+        "android_client_info": {
+          "package_name": "com.example.hp.ajentrent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925256818032-q6h99clrg3sg9fvkpv5noc2dj9e29683.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.ajentrent",
+            "certificate_hash": "ad5ff64b00a043c518668ab4e01fd14fbd36c118"
+          }
+        },
+        {
+          "client_id": "925256818032-bbno2mg80sk833dfububsfg7l3kp9tm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQs_g-7Q6EYQOdQYgUr1PxZJOzieNPkvw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925256818032-bbno2mg80sk833dfububsfg7l3kp9tm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

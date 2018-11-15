@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AjentRent</string>
+    <string name="name">Email</string>
+    <string name="password">Password</string>
+    <string name="txtv">label</string>
+    <string name="txtv2">label2</string>
+    <string name="btn">Submit</string>
+
+    <string-array name="spinnerItems">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>
